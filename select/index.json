@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "やっちゃった",
+  "base_artist": "般若",
+  "createdAt": "2025-12-17T15:34:31.965703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やっちゃった",
+      "artist": "HANNYA",
+      "has_synced": true,
+      "path": "select/01_やっちゃった_HANNYA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やっちゃった",
+      "artist": "般若",
+      "has_synced": false,
+      "path": "select/pl_01_やっちゃった_般若.txt"
+    }
+  ]
+}
